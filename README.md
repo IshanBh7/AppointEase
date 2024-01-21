@@ -25,25 +25,19 @@ Appointease is a web application designed to streamline and simplify appointment
 
 ## Installation
 
-1. Clone the repository:
-
-```shell
-git clone https://github.com/jaig10/Appointease.git
-```
-
-2. Change to the project directory:
+1. Change to the project directory:
 
 ```shell
 cd Appointease
 ```
 
-3. Install the dependencies:
+2. Install the dependencies:
 
 ```shell
 npm install
 ```
 
-4. start the server 
+3. start the server 
 
 ```shell
 nodemon server
